@@ -1,0 +1,12 @@
+h1,h2{color: FF3333}
+p{font-family: monospace;
+     color: 75A275;
+     font-size: 20px;
+     border: 1px solid #0ACD0A;
+     padding: 10px;
+     background-color: #0ACD0A;}
+
+a{color: 18088C;
+  text-decoration: none;}    
+body{background-color: 081608;
+    margin:500px;}     
